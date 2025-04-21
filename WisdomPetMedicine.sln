@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WisdomPetMedicine.Rescue.Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WisdomPetMedicine.Rescue.Api", "WisdomPetMedicine.Rescue.Api\WisdomPetMedicine.Rescue.Api.csproj", "{64AA66B3-6B56-4B9B-A7A3-EB549791C044}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WisdomPetMedicine.RescueQuery.Api", "WisdomPetMedicine.RescueQuery.Api\WisdomPetMedicine.RescueQuery.Api.csproj", "{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{64AA66B3-6B56-4B9B-A7A3-EB549791C044}.Release|x64.Build.0 = Release|Any CPU
 		{64AA66B3-6B56-4B9B-A7A3-EB549791C044}.Release|x86.ActiveCfg = Release|Any CPU
 		{64AA66B3-6B56-4B9B-A7A3-EB549791C044}.Release|x86.Build.0 = Release|Any CPU
+		{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}.Debug|x64.Build.0 = Debug|Any CPU
+		{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}.Debug|x86.Build.0 = Debug|Any CPU
+		{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}.Release|x64.ActiveCfg = Release|Any CPU
+		{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}.Release|x64.Build.0 = Release|Any CPU
+		{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}.Release|x86.ActiveCfg = Release|Any CPU
+		{6FCAF6AB-6CA6-4BCF-AF20-0BF4DCD59286}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
